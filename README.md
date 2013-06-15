@@ -1,0 +1,4 @@
+Hackrobat
+=========
+
+The Hackrobat Manifesto
