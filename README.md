@@ -21,4 +21,4 @@ That is, in pursuit of the items on the left we have found the items on the righ
 
 [View Signatories](https://github.com/hlaueriksson/hackrobat.org/stargazers)
 
-Suggest improvements by creating a [Pull Request](https://github.com/hlaueriksson/hackrobat.org/pulls)
+Suggest improvements by creating an [Issue](https://github.com/hlaueriksson/hackrobat.org/issues) or [Pull Request](https://github.com/hlaueriksson/hackrobat.org/pulls)
