@@ -17,7 +17,7 @@ That is, in pursuit of the items on the left we have found the items on the righ
 
 ---
 
-Sign the Manifesto by giving this repo a [:star:](#top)
+**Sign the Manifesto** by giving this repo a [:star:](#top)
 
 [View Signatories](https://github.com/hlaueriksson/hackrobat.org/stargazers)
 
